@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1d7dc79eb18de3078b7e20346050fb78",
+    "revision": "6a9d5c13b5a560f5527d3d6bf091f367",
     "url": "/interakywnemenu/index.html"
   },
   {
-    "revision": "948e254e2571bfd35c34",
-    "url": "/interakywnemenu/static/css/main.365d6d50.chunk.css"
+    "revision": "369520fea7ed9435198e",
+    "url": "/interakywnemenu/static/css/main.2c935ecb.chunk.css"
   },
   {
     "revision": "c7551cde6a3fd575842f",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/interakywnemenu/static/js/2.3f049e68.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "948e254e2571bfd35c34",
-    "url": "/interakywnemenu/static/js/main.f9355f83.chunk.js"
+    "revision": "369520fea7ed9435198e",
+    "url": "/interakywnemenu/static/js/main.db0c2de1.chunk.js"
   },
   {
     "revision": "d178b4d63e00d9fc107e",
