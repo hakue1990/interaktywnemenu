@@ -6,5 +6,5 @@ li:nth-child(even) {
 }
 li:hover {
   cursor: pointer;
-  color: white;
+  color: red;
 }
