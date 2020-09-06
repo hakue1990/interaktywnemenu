@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/interakywnemenu/static/css/main.f6d52f0a.chunk.css",
+    "main.css": "/interakywnemenu/static/css/main.f2d435c0.chunk.css",
     "main.js": "/interakywnemenu/static/js/main.89d4a6ca.chunk.js",
     "main.js.map": "/interakywnemenu/static/js/main.89d4a6ca.chunk.js.map",
     "runtime-main.js": "/interakywnemenu/static/js/runtime-main.944f7189.js",
@@ -8,15 +8,15 @@
     "static/js/2.3f049e68.chunk.js": "/interakywnemenu/static/js/2.3f049e68.chunk.js",
     "static/js/2.3f049e68.chunk.js.map": "/interakywnemenu/static/js/2.3f049e68.chunk.js.map",
     "index.html": "/interakywnemenu/index.html",
-    "precache-manifest.e81f997000ecb65d992f268e7b1d2335.js": "/interakywnemenu/precache-manifest.e81f997000ecb65d992f268e7b1d2335.js",
+    "precache-manifest.dd41849cafb4179624c4204d73140dc3.js": "/interakywnemenu/precache-manifest.dd41849cafb4179624c4204d73140dc3.js",
     "service-worker.js": "/interakywnemenu/service-worker.js",
-    "static/css/main.f6d52f0a.chunk.css.map": "/interakywnemenu/static/css/main.f6d52f0a.chunk.css.map",
+    "static/css/main.f2d435c0.chunk.css.map": "/interakywnemenu/static/css/main.f2d435c0.chunk.css.map",
     "static/js/2.3f049e68.chunk.js.LICENSE.txt": "/interakywnemenu/static/js/2.3f049e68.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.944f7189.js",
     "static/js/2.3f049e68.chunk.js",
-    "static/css/main.f6d52f0a.chunk.css",
+    "static/css/main.f2d435c0.chunk.css",
     "static/js/main.89d4a6ca.chunk.js"
   ]
 }
