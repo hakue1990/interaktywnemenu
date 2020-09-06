@@ -45,18 +45,19 @@ li:hover {
 
 @media (max-width: 420px) {
   body {
-    background: none;
-    text-align: center;
-    background: rgb(34, 193, 195);
+    background: rgb(131, 58, 180);
     background: linear-gradient(
-      0deg,
-      rgba(34, 193, 195, 1) 0%,
-      rgba(45, 253, 69, 0.6977077363896849) 84%
+      90deg,
+      rgba(131, 58, 180, 1) 0%,
+      rgba(253, 29, 29, 1) 50%,
+      rgba(252, 176, 69, 1) 100%
     );
   }
   .container {
     border: none;
     background: none;
+    height: 100vh;
+    width: 100vw;
   }
   ul {
     padding: 20px;
