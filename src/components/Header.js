@@ -4,16 +4,16 @@ const Header = (props) => {
   const activeItems = props.items.filter((item) => item.active);
   return (
     <React.Fragment>
-      <h1>
+      <h3>
         smartShop ever<span style={{ color: "green" }}>Green</span>
-      </h1>
-      <h2>interaktywne menu</h2>
-      <h1>Wielkość zamówienia: {activeItems.length}</h1>
-      <h2>
+      </h3>
+      <h4>interaktywne menu</h4>
+      <h4>Wielkość zamówienia: {activeItems.length}</h4>
+      <h5>
         {activeItems.length
           ? "do zapłaty: " + activeItems.length * 40 + "zł"
           : " nie kupujesz to nie płacisz"}
-      </h2>
+      </h5>
     </React.Fragment>
   );
 };
