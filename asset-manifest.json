@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/interakywnemenu/static/css/main.a2eaf79b.chunk.css",
-    "main.js": "/interakywnemenu/static/js/main.d90b8945.chunk.js",
-    "main.js.map": "/interakywnemenu/static/js/main.d90b8945.chunk.js.map",
+    "main.js": "/interakywnemenu/static/js/main.6a574b12.chunk.js",
+    "main.js.map": "/interakywnemenu/static/js/main.6a574b12.chunk.js.map",
     "runtime-main.js": "/interakywnemenu/static/js/runtime-main.944f7189.js",
     "runtime-main.js.map": "/interakywnemenu/static/js/runtime-main.944f7189.js.map",
     "static/js/2.3f049e68.chunk.js": "/interakywnemenu/static/js/2.3f049e68.chunk.js",
     "static/js/2.3f049e68.chunk.js.map": "/interakywnemenu/static/js/2.3f049e68.chunk.js.map",
     "index.html": "/interakywnemenu/index.html",
-    "precache-manifest.80b693f2a8438814c4a8c154ac14b880.js": "/interakywnemenu/precache-manifest.80b693f2a8438814c4a8c154ac14b880.js",
+    "precache-manifest.b4302325cddbec7e068f9eaedd357daa.js": "/interakywnemenu/precache-manifest.b4302325cddbec7e068f9eaedd357daa.js",
     "service-worker.js": "/interakywnemenu/service-worker.js",
     "static/css/main.a2eaf79b.chunk.css.map": "/interakywnemenu/static/css/main.a2eaf79b.chunk.css.map",
     "static/js/2.3f049e68.chunk.js.LICENSE.txt": "/interakywnemenu/static/js/2.3f049e68.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.944f7189.js",
     "static/js/2.3f049e68.chunk.js",
     "static/css/main.a2eaf79b.chunk.css",
-    "static/js/main.d90b8945.chunk.js"
+    "static/js/main.6a574b12.chunk.js"
   ]
 }
