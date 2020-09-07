@@ -7,7 +7,6 @@ const Header = (props) => {
       <h3>
         smartShop ever<span style={{ color: "green" }}>Green</span>
       </h3>
-      <h4>interaktywne menu</h4>
       <h4>Wielkość zamówienia: {activeItems.length}</h4>
       <h5>
         {activeItems.length
