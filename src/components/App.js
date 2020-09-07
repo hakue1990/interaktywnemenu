@@ -6,7 +6,7 @@ import ListItems from "./ListItems";
 class App extends React.Component {
   state = {
     items: [
-      { id: 1, name: "ROYAL GORILLA", active: false },
+      { id: 1, name: "ROYAL GORILLAA", active: false },
       { id: 2, name: "NORTHERN LIGHT", active: false },
       { id: 3, name: "AMNESIA HAZE", active: false },
       { id: 4, name: "GREEN GELATO", active: false },
